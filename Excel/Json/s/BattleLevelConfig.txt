@@ -1,0 +1,14 @@
+{"list":[
+{"_t":"BattleLevelConfig","_id":1,"MonsterIds":[1002],"MonsterCount":[1],"Name":"诅咒之地1","MinEnterLevel":[1,10]},
+{"_t":"BattleLevelConfig","_id":2,"MonsterIds":[1003],"MonsterCount":[2],"Name":"诅咒之地2","MinEnterLevel":[1,11]},
+{"_t":"BattleLevelConfig","_id":3,"MonsterIds":[1004],"MonsterCount":[3],"Name":"诅咒之地3","MinEnterLevel":[1,12]},
+{"_t":"BattleLevelConfig","_id":4,"MonsterIds":[1005],"MonsterCount":[4],"Name":"诅咒之地4","MinEnterLevel":[1,13]},
+{"_t":"BattleLevelConfig","_id":5,"MonsterIds":[1006],"MonsterCount":[5],"Name":"诅咒之地5","MinEnterLevel":[1,14]},
+{"_t":"BattleLevelConfig","_id":6,"MonsterIds":[1007],"MonsterCount":[6],"Name":"诅咒之地6","MinEnterLevel":[1,15]},
+{"_t":"BattleLevelConfig","_id":7,"MonsterIds":[1008],"MonsterCount":[7],"Name":"诅咒之地7","MinEnterLevel":[1,16]},
+{"_t":"BattleLevelConfig","_id":8,"MonsterIds":[1009],"MonsterCount":[8],"Name":"诅咒之地8","MinEnterLevel":[1,17]},
+{"_t":"BattleLevelConfig","_id":9,"MonsterIds":[1010],"MonsterCount":[9],"Name":"诅咒之地9","MinEnterLevel":[1,18]},
+{"_t":"BattleLevelConfig","_id":10,"MonsterIds":[1011],"MonsterCount":[10],"Name":"诅咒之地10","MinEnterLevel":[1,19]},
+{"_t":"BattleLevelConfig","_id":11,"MonsterIds":[1012],"MonsterCount":[11],"Name":"诅咒之地11","MinEnterLevel":[1,20]},
+{"_t":"BattleLevelConfig","_id":12,"MonsterIds":[1013],"MonsterCount":[12],"Name":"诅咒之地12","MinEnterLevel":[1,21]},
+]}

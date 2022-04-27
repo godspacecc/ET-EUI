@@ -1,0 +1,17 @@
+{"list":[
+{"_t":"PlayerNumericConfig","_id":1011,"Name":"伤害","BaseValue":100,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":1012,"Name":"伤害追加","BaseValue":0,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":1013,"Name":"生命","BaseValue":100,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":1014,"Name":"法力","BaseValue":100,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":1015,"Name":"护甲","BaseValue":100,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":1016,"Name":"护甲追加","BaseValue":0,"isNeedShow":1,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":3001,"Name":"力量","BaseValue":1,"isNeedShow":0,"isAddPoint":1},
+{"_t":"PlayerNumericConfig","_id":3002,"Name":"体力","BaseValue":1,"isNeedShow":0,"isAddPoint":1},
+{"_t":"PlayerNumericConfig","_id":3003,"Name":"敏捷","BaseValue":1,"isNeedShow":0,"isAddPoint":1},
+{"_t":"PlayerNumericConfig","_id":3004,"Name":"精神","BaseValue":1,"isNeedShow":0,"isAddPoint":1},
+{"_t":"PlayerNumericConfig","_id":3005,"Name":"属性点","BaseValue":5,"isNeedShow":0,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":3006,"Name":"战力值","BaseValue":5,"isNeedShow":0,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":3007,"Name":"等级","BaseValue":1,"isNeedShow":0,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":3008,"Name":"金币","BaseValue":0,"isNeedShow":0,"isAddPoint":0},
+{"_t":"PlayerNumericConfig","_id":3009,"Name":"经验值","BaseValue":0,"isNeedShow":0,"isAddPoint":0},
+]}

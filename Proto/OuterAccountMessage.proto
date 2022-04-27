@@ -1,0 +1,17 @@
+syntax = "proto3";
+package ET;
+
+//ResponseType M2C_TestAResponse
+message C2M_TestARequest // IActorLocationRequest
+{
+	int32 RpcId = 90;
+	string request = 1;
+}
+
+message M2C_TestAResponse // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	string response = 1;
+}
